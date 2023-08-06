@@ -1,0 +1,9 @@
+div{
+    background-color: lightgreen;
+    border: 2px solid blue;
+    margin-left: 10px;
+}
+img{
+    height: 100px;
+    width: 200px;
+}

@@ -1,0 +1,27 @@
+
+.item1{
+    background-color: orange;
+    width: 500px;
+}
+.item2{
+    background-color: aqua;
+   padding: 10px;
+    width: 500px;
+}
+.item3{
+    background-color: blueviolet;
+    padding-top: 20px;
+    width: 550px;
+
+}
+.item4{
+    background-color:lightgreen ;
+    padding-left: 20px;
+    width: 500px;
+}
+.item5{
+    background-color: lightgreen;
+    padding-right: 20px;
+    width: 500px;
+
+}
