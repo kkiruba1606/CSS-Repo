@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+.container{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+#div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    background-color:palegreen;
+}
+.hidden{
+    overflow: hidden;
+}
+.visible{
+    overflow: visible;
+}
+.auto{
+    overflow: auto;
+}
+.scroll{
+    overflow: scroll;
+}
+h1{
+    text-align: center;
+    color: blue;
+}

@@ -1,0 +1,29 @@
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+    background-color: palegreen;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+ a{
+    font-size: 20px;
+ }
+ div :first-child{
+    color: red; 
+ }
+ p:nth-child(even){
+    color:blueviolet;
+ }

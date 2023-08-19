@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(185, 233, 185);
+}
+.pseudocontainer>p{
+    font-size: 25px;
+}
+.pseudocontainer > p::first-letter{
+    color: red;
+   font-size: xx-large;
+}
+.pseudocontainer>h1::first-line{
+    color: brown;
+}
+.pseudocontainer >h1::after{
+    content: "):";
+}
+.pseudocontainer >h1::before{
+    content: "Section:";
+}
+::selection{
+    background-color: yellow;
+    color:red;
+}
+p::first-line{
+    color:#DE3163 ;
+}
+::marker {
+    color:navy;
+    font-size: 23px;
+  }

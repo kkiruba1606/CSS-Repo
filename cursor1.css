@@ -1,0 +1,13 @@
+.link{
+    cursor: pointer;
+
+}
+.scroll{
+    cursor: all-scroll;
+}
+.zoomin{
+    cursor: zoom-in;
+}
+.loading{
+    cursor: progress;
+}

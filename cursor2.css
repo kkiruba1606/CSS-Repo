@@ -1,0 +1,23 @@
+.link{
+    cursor: pointer;  
+
+}
+.li{
+    cursor: not-allowed;
+}
+.scroll{
+    cursor: all-scroll;
+    cursor: move;
+}
+.zoomin{
+    cursor: zoom-in;
+}
+.loading{
+    cursor: progress;
+}
+.copy{
+    cursor: copy;
+}
+.grab{
+    cursor:grab;
+}

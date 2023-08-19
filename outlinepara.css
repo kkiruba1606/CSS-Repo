@@ -1,0 +1,33 @@
+p{
+    outline-color: hotpink;
+    outline-width: 10px;
+    width: 800px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+.solid{
+    outline-style: solid;
+}
+.dashed{
+    outline-style: dashed;
+}
+.dotted{
+    outline-style: dotted;
+}
+.double{
+
+    outline-style:double;
+}
+.inset{
+    outline-style: inset;
+}
+.outset{
+    outline-style: outset;
+}
+.groove{
+    outline-style: groove;
+}
+.ridge{
+    outline-style: ridge;
+}

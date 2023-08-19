@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+   
+}
+h2{
+    outline-color: palegreen;
+    outline-width: 10px;
+    width: 80px;
+    text-align: center;
+    margin: 20px;
+}
+.solid{
+    outline-style: solid;
+}
+.dashed{
+    outline-style: dashed;
+}
+.dotted{
+    outline-style: dotted;
+}
+.double{
+
+    outline-style:double;
+}
+.inset{
+    outline-style: inset;
+}
+.outset{
+    outline-style: outset;
+}
+.groove{
+    outline-style: groove;
+}
+.ridge{
+    outline-style: ridge;
+}

@@ -1,0 +1,18 @@
+.fixed{
+    position: fixed;
+    width: 100vw;
+    text-align: center;
+    background-color: palevioletred;
+
+}
+img{
+    height: 300px;
+    width: 200px; 
+    margin-top: 60px;
+}
+.p{
+    position: sticky;
+    font-size: 16px;
+    text-align: center;
+    background-color: palevioletred;
+}

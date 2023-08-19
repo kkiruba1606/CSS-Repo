@@ -1,0 +1,19 @@
+h1{
+    position: static; 
+}
+p{
+    position: relative;
+    left: 40px;
+    top: 10px;
+   
+}
+img{
+    position: absolute;
+    right: 50px;
+
+}
+#sticky{
+    background-color:palegreen;
+    position: sticky;
+    text-align: center;
+}

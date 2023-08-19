@@ -1,0 +1,23 @@
+div{
+    overflow-x: auto;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+   
+}
+th, tr,td{
+    border: 1px solid black;
+    padding: 20px;
+}
+th{
+    height: 40px;
+    text-align: left;
+    vertical-align: bottom;
+    background-color: palegreen;
+}
+tbody tr:nth-child(even){
+    background-color: #f2f2f2;
+}
