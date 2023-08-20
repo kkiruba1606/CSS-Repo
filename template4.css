@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+body{
+    background-color:gray;
+    background-image:url(https://images.pexels.com/photos/7139638/pexels-photo-7139638.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.container{
+    
+    height: 100vh;
+
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 120px;
+
+}
+.address{
+    display: flex;
+    gap: 80px;
+}
+.address1{
+    display: flex;
+    gap:20px;
+}
+.logo{
+    text-decoration: none;
+}
+.menu{
+    display: flex;
+    background-color:#fff;
+    width: 900px;
+    height: 40px;
+    border-radius: 35px;
+    margin-left: 100px;
+    padding-top: 20px;
+    justify-content: space-evenly;
+}
+.fb{
+    color:blue ;
+    padding-right: 10px;
+
+}
+.tw{
+    color: green;
+    padding-right: 10px;
+}
+.li{
+    color:red;
+    padding-right: 10px;
+}
+a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+a:hover{
+    color: red;
+}
+ .p1{
+    color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main{
+    margin-left: 110px;
+    margin-top: 70px;
+}
+.div2{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.div3{
+    padding-top: 20px;
+    font-size: 14px;
+}
+.btn{
+    margin-top: 40px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color:darkred;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+}
+.time{
+    color: darkred;
+}
+.loc{
+    color:yellow;
+}

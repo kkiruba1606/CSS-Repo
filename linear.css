@@ -1,0 +1,5 @@
+.container{
+    background-image: conic-gradient(red, yellow, green);
+    width: 100vw;
+    height: 100vh;
+}

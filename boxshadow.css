@@ -1,0 +1,49 @@
+.container{
+    background-color: skyblue;
+    height: 100vh;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.box1{
+ 
+
+  width: 200px;
+
+  height: 200px;
+
+  background:#fff;
+
+  box-shadow: 5px 5px 10px #999;
+  border-radius: 10px;
+
+}
+.box2{
+    
+        width: 200px;
+      
+        height: 200px;
+      
+        background: #fff;
+      
+        box-shadow: 5px 5px 10px #999;
+        border-radius: 10px;
+        
+      
+}
+.box3{
+
+        width: 200px;
+      
+        height: 200px;
+      
+        background: #fff;
+      
+        box-shadow: 5px 5px 10px #999;
+        border-radius: 10px;
+    
+      
+
+}

@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Droid Serif', serif;
+}
+body{
+    background-color: silver;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    margin: 10px;
+    color: #2f2f2f;
+    padding: 10px;
+}
+font{
+    color: red;
+}
+.left{
+    background-color: white;
+    padding: 10px;
+    height: 100vh;
+    width: 700px;
+    margin-left: 20px;
+    border: 1px solid black;
+   
+}
+.right{
+    background-color: white;
+    padding: 10px;
+    height: 100vh;
+    border: 1px solid black;
+    margin-left: 40px ;
+    width: 700px;
+    
+}
+.side{
+    margin-left: 550px;
+    font-size: 12px;
+    color: gray; 
+    
+}
+.subhead{
+    display: flex;
+    justify-content:space-between;
+    width:650px;
+    padding: 10px;
+    background-color:silver;
+}
+.mainhead{
+    text-align: center;
+    font-size: 80px;
+}
+.headline{
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+.content{
+    padding-top: 10px;
+        -webkit-column-count: 3; 
+        /* Chrome, Safari, Opera */
+         -moz-column-count: 3;
+          /* Firefox */
+           column-count: 3; 
+          /* Standard syntax */
+   -webkit-column-width: 150px;
+   -webkit-column-gap: 50px;
+   -webkit-column-rule: 2px solid red;
+   padding-bottom: 10px;
+}
+.leftimg{
+    background-color: silver;
+    height: 100px;
+    width: 200px;
+    
+}
+.rightimg{
+    height:300px;
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.middlehead{
+    text-align: center;
+    font-size: 30px;
+}
