@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    padding-top: 10px;
+
+}
+.logo{
+    font-size: 30px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: skyblue;
+}
+.orange{
+    color: orange;
+}
+.address{
+    display: flex;
+    gap: 80px;
+    margin-right: 60px;
+}
+.adress1{
+    display: flex;
+    gap:20px;
+}
+.icon{
+    color: skyblue;
+}
+.option{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.menu{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.num{
+    color: skyblue;
+    padding-top: 20px;
+    margin-right: 50px;
+}
+a{ 
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+}
+a:hover{
+    border-top: 2px solid skyblue;
+}
+.img{
+   background-image:linear-gradient(55deg, rgba(39, 40, 40, 0.75), rgba(0, 7, 7, 0.75)), url(https://images.pexels.com/photos/3153201/pexels-photo-3153201.jpeg?auto=compress&cs=tinysrgb&w=600);
+   background-size: cover;
+   height: 500px;
+   width: 1000px;
+   margin-left: 250px;
+   margin-top: 40px;
+   
+}
+.btn{
+    background-color:orange;
+    height: 20px;
+    width: 90px;
+    padding: 10px;
+}
+.content{
+    text-align: center;
+    display: flex;
+}
+.h1{
+    padding: 20px;
+    color: #fff;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.h2{
+
+    color: #fff;
+    font-size: 35px;
+}
+.para{
+    margin-top: 10px;
+    color: #fff;
+}
+.btn{
+   margin-top: 50px;
+    margin-left:450px;
+   color: #fff; 
+   cursor: pointer;
+
+}
+.box1{
+    height: 200px;
+    width:250px;
+    background-color: orangered;
+    border: 1px solid #fff;
+    margin-bottom: 10px;
+}
+.box2{
+    
+        height: 200px;
+        width:250px;
+        background-color:skyblue;
+        border: 1px solid #fff;
+        margin-bottom: 10px;
+        
+}
+.box3{
+    height: 200px;
+    width:250px;
+    background-color: palegreen;
+    border: 1px solid #fff;
+    margin-bottom: 10px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 20px;
+    left:400px;
+
+}
+.subcontent{
+    color: #fff;
+    font-weight: bold;
+    margin-left: 30px;
+    padding: 20px;
+}
